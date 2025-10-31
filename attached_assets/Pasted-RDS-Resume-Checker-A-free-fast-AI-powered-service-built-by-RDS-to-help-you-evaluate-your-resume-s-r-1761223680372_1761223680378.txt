@@ -1,0 +1,40 @@
+RDS Resume Checker
+A free, fast AI-powered service built by RDS to help you evaluate your resume’s readiness for today’s job-market and applicant-tracking systems (ATS). You upload your resume (PDF or DOCX, under 2 MB), and RDS performs 16 key checks across five main categories: content, format, skills, sections, and style.
+
+What RDS looks at
+
+Content: How well your resume can be parsed and understood (similar to an ATS), repeated words/phrases, grammar/spelling, and whether you’ve quantified achievements rather than just listing duties.
+
+Format: File type/size, resume length, bullet-point length, and general readability.
+
+Skills suggestions: Hard skills, soft skills, relevance of skills to your industry/role.
+
+Resume sections: Presence and clarity of contact info, essential sections (e.g., experience, education), and how well you’re showing your personality.
+
+Style: Design/layout, active voice usage, avoidance of fluff or buzzwords.
+
+Why it matters
+
+RDS knows that many resumes are first processed by ATS software before a human ever sees them. So the better your document aligns with what an ATS can parse and what a recruiter expects, the higher your chances of getting to the interview stage. The tool offers a two-tier scoring system: one tier gauges how well your resume is parsed/understood, and the other evaluates the writing quality and impact.
+
+What happens next
+
+Once you upload your resume:
+
+You’ll receive a personalized email with your resume score and a task list of actionable improvements.
+
+You’ll get suggestions on rewriting/enhancing certain sections (e.g., your summary/objective, experience bullets, skills list) using best-practice prompts and tailored AI support.
+
+You’ll know where to refine formatting, style, and content to better match the job-description you’re targeting.
+
+Quick tips for improvement (from RDS’s guidance)
+
+Rewrite your experience section to focus on measurable achievements, not just job duties.
+
+Include relevant keywords from the job posting in a natural way.
+
+Use a clean format (PDF implied, simple and ATS-friendly).
+
+Proofread for grammar, keep sentences active, minimise buzzwords.
+
+Make sure your contact info and essential headings (“Work Experience”, “Education”, etc.) are clearly defined and easy for machines and humans.
